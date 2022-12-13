@@ -460,6 +460,7 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 10px
 }
 .portfolios .portfolio-item .hover-items .icons .icon {
   background-color: var(--color-primary);
